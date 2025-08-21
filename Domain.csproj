@@ -1,0 +1,38 @@
+﻿<Project Sdk="Microsoft.NET.Sdk">
+
+  <PropertyGroup>
+    <TargetFramework>net8.0</TargetFramework>
+    <ImplicitUsings>enable</ImplicitUsings>
+    <Nullable>enable</Nullable>
+  </PropertyGroup>
+
+  <ItemGroup>
+    <PackageReference Include="AutoMapper" Version="14.0.0" />
+    <PackageReference Include="MailKit" Version="4.13.0" />
+    <PackageReference Include="Microsoft.AspNetCore.Authentication.JwtBearer" Version="8.0.17" />
+    <PackageReference Include="Microsoft.AspNetCore.Http.Abstractions" Version="2.3.0" />
+    <PackageReference Include="Microsoft.EntityFrameworkCore" Version="9.0.6" />
+    <PackageReference Include="Microsoft.EntityFrameworkCore.SqlServer" Version="9.0.6" />
+    <PackageReference Include="Microsoft.EntityFrameworkCore.Tools" Version="9.0.6">
+      <PrivateAssets>all</PrivateAssets>
+      <IncludeAssets>runtime; build; native; contentfiles; analyzers; buildtransitive</IncludeAssets>
+    </PackageReference>
+    <PackageReference Include="MimeKit" Version="4.13.0" />
+    <PackageReference Include="Swashbuckle.AspNetCore.Filters" Version="8.0.0" />
+  </ItemGroup>
+
+  <ItemGroup>
+    <Folder Include="Services\AuthUser\DTO%27s\" />
+    <Folder Include="Services\AuthUser\Interfaces\" />
+    <Folder Include="Services\Email\Interfaces\" />
+    <Folder Include="Services\JobProvider\DTO%27s\" />
+    <Folder Include="Services\JobProvider\Interfaces\" />
+    <Folder Include="Services\JobSeeker\Interfaces\" />
+    
+    <Folder Include="Services\Job\DTO%27s\" />
+    <Folder Include="Services\Job\Interfaces\" />
+    <Folder Include="Services\SystemUser\DTO%27s\" />
+    <Folder Include="Services\SystemUser\Interfaces\" />
+  </ItemGroup>
+
+</Project>

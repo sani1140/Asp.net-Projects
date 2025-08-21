@@ -1,0 +1,1093 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "D:\\sani course\\apiproject\\Final-Test-Updated\\API_FINAL_PROJECT\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|ViewDataWindow_MSSQL__/LAPTOP_J6GQDIKV/Finalone/True/SqlTable/dbo.JobCategory.sql||{0058A1F7-65F3-4DB9-B3D0-CA7E64DD73CD}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|ViewDataWindow_MSSQL__/LAPTOP_J6GQDIKV/Finalone/True/SqlTable/dbo.JobProviderCompanies.sql||{0058A1F7-65F3-4DB9-B3D0-CA7E64DD73CD}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5BB43B16-D657-4C2C-B575-CFA22CFFCB55}|Domain\\Domain.csproj|d:\\sani course\\apiproject\\final-test-updated\\api_final_project\\domain\\services\\jobprovider\\jobproviderrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{5BB43B16-D657-4C2C-B575-CFA22CFFCB55}|Domain\\Domain.csproj|solutionrelative:domain\\services\\jobprovider\\jobproviderrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|ViewDataWindow_MSSQL__/LAPTOP_J6GQDIKV/Finalone/True/SqlTable/dbo.JobApplication.sql||{0058A1F7-65F3-4DB9-B3D0-CA7E64DD73CD}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8A0A09CC-7827-4CF4-89DA-445F2C227524}|API_FINAL_PROJECT\\API_FINAL_PROJECT.csproj|d:\\sani course\\apiproject\\final-test-updated\\api_final_project\\api_final_project\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{8A0A09CC-7827-4CF4-89DA-445F2C227524}|API_FINAL_PROJECT\\API_FINAL_PROJECT.csproj|solutionrelative:api_final_project\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5BB43B16-D657-4C2C-B575-CFA22CFFCB55}|Domain\\Domain.csproj|d:\\sani course\\apiproject\\final-test-updated\\api_final_project\\domain\\services\\job\\jobpostservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{5BB43B16-D657-4C2C-B575-CFA22CFFCB55}|Domain\\Domain.csproj|solutionrelative:domain\\services\\job\\jobpostservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5BB43B16-D657-4C2C-B575-CFA22CFFCB55}|Domain\\Domain.csproj|d:\\sani course\\apiproject\\final-test-updated\\api_final_project\\domain\\services\\job\\jobpostrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{5BB43B16-D657-4C2C-B575-CFA22CFFCB55}|Domain\\Domain.csproj|solutionrelative:domain\\services\\job\\jobpostrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8A0A09CC-7827-4CF4-89DA-445F2C227524}|API_FINAL_PROJECT\\API_FINAL_PROJECT.csproj|d:\\sani course\\apiproject\\final-test-updated\\api_final_project\\api_final_project\\api\\jobprovider\\jobprovidercontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{8A0A09CC-7827-4CF4-89DA-445F2C227524}|API_FINAL_PROJECT\\API_FINAL_PROJECT.csproj|solutionrelative:api_final_project\\api\\jobprovider\\jobprovidercontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5BB43B16-D657-4C2C-B575-CFA22CFFCB55}|Domain\\Domain.csproj|d:\\sani course\\apiproject\\final-test-updated\\api_final_project\\domain\\migrations\\20250727173200_add1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{5BB43B16-D657-4C2C-B575-CFA22CFFCB55}|Domain\\Domain.csproj|solutionrelative:domain\\migrations\\20250727173200_add1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5BB43B16-D657-4C2C-B575-CFA22CFFCB55}|Domain\\Domain.csproj|d:\\sani course\\apiproject\\final-test-updated\\api_final_project\\domain\\models\\appdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{5BB43B16-D657-4C2C-B575-CFA22CFFCB55}|Domain\\Domain.csproj|solutionrelative:domain\\models\\appdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|D:\\sani course\\adhiltest\\Final-Test-Updated\\Final-Test-Updated\\API_FINAL_PROJECT\\Domain\\Migrations\\20250727173039_add.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|D:\\sani course\\adhiltest\\Final-Test-Updated\\Final-Test-Updated\\API_FINAL_PROJECT\\Domain\\Migrations\\20250727172353_sanila.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|D:\\sani course\\adhiltest\\Final-Test-Updated\\Final-Test-Updated\\API_FINAL_PROJECT\\Domain\\Migrations\\20250727172211_RecreateAppliedJob.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5BB43B16-D657-4C2C-B575-CFA22CFFCB55}|Domain\\Domain.csproj|d:\\sani course\\apiproject\\final-test-updated\\api_final_project\\domain\\models\\appliedjob.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{5BB43B16-D657-4C2C-B575-CFA22CFFCB55}|Domain\\Domain.csproj|solutionrelative:domain\\models\\appliedjob.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5BB43B16-D657-4C2C-B575-CFA22CFFCB55}|Domain\\Domain.csproj|d:\\sani course\\apiproject\\final-test-updated\\api_final_project\\domain\\services\\jobseeker\\dto\u0027s\\jobseekerskilldto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{5BB43B16-D657-4C2C-B575-CFA22CFFCB55}|Domain\\Domain.csproj|solutionrelative:domain\\services\\jobseeker\\dto\u0027s\\jobseekerskilldto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5BB43B16-D657-4C2C-B575-CFA22CFFCB55}|Domain\\Domain.csproj|d:\\sani course\\apiproject\\final-test-updated\\api_final_project\\domain\\models\\jobseekerskill.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{5BB43B16-D657-4C2C-B575-CFA22CFFCB55}|Domain\\Domain.csproj|solutionrelative:domain\\models\\jobseekerskill.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8A0A09CC-7827-4CF4-89DA-445F2C227524}|API_FINAL_PROJECT\\API_FINAL_PROJECT.csproj|d:\\sani course\\apiproject\\final-test-updated\\api_final_project\\api_final_project\\extensions\\automapperprofile.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{8A0A09CC-7827-4CF4-89DA-445F2C227524}|API_FINAL_PROJECT\\API_FINAL_PROJECT.csproj|solutionrelative:api_final_project\\extensions\\automapperprofile.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5BB43B16-D657-4C2C-B575-CFA22CFFCB55}|Domain\\Domain.csproj|d:\\sani course\\apiproject\\final-test-updated\\api_final_project\\domain\\services\\jobseeker\\jobseekerrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{5BB43B16-D657-4C2C-B575-CFA22CFFCB55}|Domain\\Domain.csproj|solutionrelative:domain\\services\\jobseeker\\jobseekerrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5BB43B16-D657-4C2C-B575-CFA22CFFCB55}|Domain\\Domain.csproj|d:\\sani course\\apiproject\\final-test-updated\\api_final_project\\domain\\services\\admin\\jobcategoryservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{5BB43B16-D657-4C2C-B575-CFA22CFFCB55}|Domain\\Domain.csproj|solutionrelative:domain\\services\\admin\\jobcategoryservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5BB43B16-D657-4C2C-B575-CFA22CFFCB55}|Domain\\Domain.csproj|d:\\sani course\\apiproject\\final-test-updated\\api_final_project\\domain\\services\\jobprovider\\jobproviderservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{5BB43B16-D657-4C2C-B575-CFA22CFFCB55}|Domain\\Domain.csproj|solutionrelative:domain\\services\\jobprovider\\jobproviderservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5BB43B16-D657-4C2C-B575-CFA22CFFCB55}|Domain\\Domain.csproj|d:\\sani course\\apiproject\\final-test-updated\\api_final_project\\domain\\services\\admin\\adminrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{5BB43B16-D657-4C2C-B575-CFA22CFFCB55}|Domain\\Domain.csproj|solutionrelative:domain\\services\\admin\\adminrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5BB43B16-D657-4C2C-B575-CFA22CFFCB55}|Domain\\Domain.csproj|d:\\sani course\\apiproject\\final-test-updated\\api_final_project\\domain\\models\\resume.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{5BB43B16-D657-4C2C-B575-CFA22CFFCB55}|Domain\\Domain.csproj|solutionrelative:domain\\models\\resume.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5BB43B16-D657-4C2C-B575-CFA22CFFCB55}|Domain\\Domain.csproj|d:\\sani course\\apiproject\\final-test-updated\\api_final_project\\domain\\services\\admin\\adminservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{5BB43B16-D657-4C2C-B575-CFA22CFFCB55}|Domain\\Domain.csproj|solutionrelative:domain\\services\\admin\\adminservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5BB43B16-D657-4C2C-B575-CFA22CFFCB55}|Domain\\Domain.csproj|d:\\sani course\\apiproject\\final-test-updated\\api_final_project\\domain\\models\\jobapplication.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{5BB43B16-D657-4C2C-B575-CFA22CFFCB55}|Domain\\Domain.csproj|solutionrelative:domain\\models\\jobapplication.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5BB43B16-D657-4C2C-B575-CFA22CFFCB55}|Domain\\Domain.csproj|d:\\sani course\\apiproject\\final-test-updated\\api_final_project\\domain\\services\\jobseeker\\jobseekerservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{5BB43B16-D657-4C2C-B575-CFA22CFFCB55}|Domain\\Domain.csproj|solutionrelative:domain\\services\\jobseeker\\jobseekerservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5BB43B16-D657-4C2C-B575-CFA22CFFCB55}|Domain\\Domain.csproj|d:\\sani course\\apiproject\\final-test-updated\\api_final_project\\domain\\services\\jobseeker\\interfaces\\ijobseekerservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{5BB43B16-D657-4C2C-B575-CFA22CFFCB55}|Domain\\Domain.csproj|solutionrelative:domain\\services\\jobseeker\\interfaces\\ijobseekerservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8A0A09CC-7827-4CF4-89DA-445F2C227524}|API_FINAL_PROJECT\\API_FINAL_PROJECT.csproj|d:\\sani course\\apiproject\\final-test-updated\\api_final_project\\api_final_project\\extensions\\applicationextensions.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{8A0A09CC-7827-4CF4-89DA-445F2C227524}|API_FINAL_PROJECT\\API_FINAL_PROJECT.csproj|solutionrelative:api_final_project\\extensions\\applicationextensions.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5BB43B16-D657-4C2C-B575-CFA22CFFCB55}|Domain\\Domain.csproj|d:\\sani course\\apiproject\\final-test-updated\\api_final_project\\domain\\services\\authuser\\dto\u0027s\\authuserdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{5BB43B16-D657-4C2C-B575-CFA22CFFCB55}|Domain\\Domain.csproj|solutionrelative:domain\\services\\authuser\\dto\u0027s\\authuserdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8A0A09CC-7827-4CF4-89DA-445F2C227524}|API_FINAL_PROJECT\\API_FINAL_PROJECT.csproj|d:\\sani course\\apiproject\\final-test-updated\\api_final_project\\api_final_project\\api\\admin\\admincontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{8A0A09CC-7827-4CF4-89DA-445F2C227524}|API_FINAL_PROJECT\\API_FINAL_PROJECT.csproj|solutionrelative:api_final_project\\api\\admin\\admincontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5BB43B16-D657-4C2C-B575-CFA22CFFCB55}|Domain\\Domain.csproj|d:\\sani course\\apiproject\\final-test-updated\\api_final_project\\domain\\services\\authuser\\authuserrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{5BB43B16-D657-4C2C-B575-CFA22CFFCB55}|Domain\\Domain.csproj|solutionrelative:domain\\services\\authuser\\authuserrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5BB43B16-D657-4C2C-B575-CFA22CFFCB55}|Domain\\Domain.csproj|d:\\sani course\\apiproject\\final-test-updated\\api_final_project\\domain\\services\\authuser\\interfaces\\iauthuserrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{5BB43B16-D657-4C2C-B575-CFA22CFFCB55}|Domain\\Domain.csproj|solutionrelative:domain\\services\\authuser\\interfaces\\iauthuserrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5BB43B16-D657-4C2C-B575-CFA22CFFCB55}|Domain\\Domain.csproj|d:\\sani course\\apiproject\\final-test-updated\\api_final_project\\domain\\models\\jobcategory.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{5BB43B16-D657-4C2C-B575-CFA22CFFCB55}|Domain\\Domain.csproj|solutionrelative:domain\\models\\jobcategory.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8A0A09CC-7827-4CF4-89DA-445F2C227524}|API_FINAL_PROJECT\\API_FINAL_PROJECT.csproj|d:\\sani course\\apiproject\\final-test-updated\\api_final_project\\api_final_project\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{8A0A09CC-7827-4CF4-89DA-445F2C227524}|API_FINAL_PROJECT\\API_FINAL_PROJECT.csproj|solutionrelative:api_final_project\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5BB43B16-D657-4C2C-B575-CFA22CFFCB55}|Domain\\Domain.csproj|d:\\sani course\\apiproject\\final-test-updated\\api_final_project\\domain\\domain.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
+      "RelativeMoniker": "D:0:0:{5BB43B16-D657-4C2C-B575-CFA22CFFCB55}|Domain\\Domain.csproj|solutionrelative:domain\\domain.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5BB43B16-D657-4C2C-B575-CFA22CFFCB55}|Domain\\Domain.csproj|d:\\sani course\\apiproject\\final-test-updated\\api_final_project\\domain\\models\\jobseekerprofile.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{5BB43B16-D657-4C2C-B575-CFA22CFFCB55}|Domain\\Domain.csproj|solutionrelative:domain\\models\\jobseekerprofile.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5BB43B16-D657-4C2C-B575-CFA22CFFCB55}|Domain\\Domain.csproj|d:\\sani course\\apiproject\\final-test-updated\\api_final_project\\domain\\services\\jobseeker\\interfaces\\ijobseekerrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{5BB43B16-D657-4C2C-B575-CFA22CFFCB55}|Domain\\Domain.csproj|solutionrelative:domain\\services\\jobseeker\\interfaces\\ijobseekerrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5BB43B16-D657-4C2C-B575-CFA22CFFCB55}|Domain\\Domain.csproj|d:\\sani course\\apiproject\\final-test-updated\\api_final_project\\domain\\models\\skill.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{5BB43B16-D657-4C2C-B575-CFA22CFFCB55}|Domain\\Domain.csproj|solutionrelative:domain\\models\\skill.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5BB43B16-D657-4C2C-B575-CFA22CFFCB55}|Domain\\Domain.csproj|d:\\sani course\\apiproject\\final-test-updated\\api_final_project\\domain\\models\\qualification.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{5BB43B16-D657-4C2C-B575-CFA22CFFCB55}|Domain\\Domain.csproj|solutionrelative:domain\\models\\qualification.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5BB43B16-D657-4C2C-B575-CFA22CFFCB55}|Domain\\Domain.csproj|d:\\sani course\\apiproject\\final-test-updated\\api_final_project\\domain\\models\\jobseekersignuprequest.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{5BB43B16-D657-4C2C-B575-CFA22CFFCB55}|Domain\\Domain.csproj|solutionrelative:domain\\models\\jobseekersignuprequest.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5BB43B16-D657-4C2C-B575-CFA22CFFCB55}|Domain\\Domain.csproj|d:\\sani course\\apiproject\\final-test-updated\\api_final_project\\domain\\models\\jobseeker.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{5BB43B16-D657-4C2C-B575-CFA22CFFCB55}|Domain\\Domain.csproj|solutionrelative:domain\\models\\jobseeker.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5BB43B16-D657-4C2C-B575-CFA22CFFCB55}|Domain\\Domain.csproj|d:\\sani course\\apiproject\\final-test-updated\\api_final_project\\domain\\models\\jobprovidersignuprequest.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{5BB43B16-D657-4C2C-B575-CFA22CFFCB55}|Domain\\Domain.csproj|solutionrelative:domain\\models\\jobprovidersignuprequest.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5BB43B16-D657-4C2C-B575-CFA22CFFCB55}|Domain\\Domain.csproj|d:\\sani course\\apiproject\\final-test-updated\\api_final_project\\domain\\models\\jobprovidercompany.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{5BB43B16-D657-4C2C-B575-CFA22CFFCB55}|Domain\\Domain.csproj|solutionrelative:domain\\models\\jobprovidercompany.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5BB43B16-D657-4C2C-B575-CFA22CFFCB55}|Domain\\Domain.csproj|d:\\sani course\\apiproject\\final-test-updated\\api_final_project\\domain\\models\\jobpost.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{5BB43B16-D657-4C2C-B575-CFA22CFFCB55}|Domain\\Domain.csproj|solutionrelative:domain\\models\\jobpost.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5BB43B16-D657-4C2C-B575-CFA22CFFCB55}|Domain\\Domain.csproj|d:\\sani course\\apiproject\\final-test-updated\\api_final_project\\domain\\models\\companyuser.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{5BB43B16-D657-4C2C-B575-CFA22CFFCB55}|Domain\\Domain.csproj|solutionrelative:domain\\models\\companyuser.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5BB43B16-D657-4C2C-B575-CFA22CFFCB55}|Domain\\Domain.csproj|d:\\sani course\\apiproject\\final-test-updated\\api_final_project\\domain\\services\\jobseeker\\dto\u0027s\\listjobdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{5BB43B16-D657-4C2C-B575-CFA22CFFCB55}|Domain\\Domain.csproj|solutionrelative:domain\\services\\jobseeker\\dto\u0027s\\listjobdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\LENOVO\\Documents\\Git\\API_FINAL_PROJECT_BATCH-05-AD02\\API_FINAL_PROJECT\\Domain\\Migrations\\20250717150009_JobSeekerSkill.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\LENOVO\\Documents\\Git\\API_FINAL_PROJECT_BATCH-05-AD02\\API_FINAL_PROJECT\\Domain\\Migrations\\20250717145757_JobSeekerSkill1_ProfileID.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\LENOVO\\Documents\\Git\\API_FINAL_PROJECT_BATCH-05-AD02\\API_FINAL_PROJECT\\Domain\\Migrations\\20250717061649_Qualification.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\LENOVO\\Documents\\Git\\API_FINAL_PROJECT_BATCH-05-AD02\\API_FINAL_PROJECT\\Domain\\Migrations\\20250709111234_updated.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5BB43B16-D657-4C2C-B575-CFA22CFFCB55}|Domain\\Domain.csproj|d:\\sani course\\apiproject\\final-test-updated\\api_final_project\\domain\\services\\jobseeker\\dto\u0027s\\jobseekerregisterrequestdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{5BB43B16-D657-4C2C-B575-CFA22CFFCB55}|Domain\\Domain.csproj|solutionrelative:domain\\services\\jobseeker\\dto\u0027s\\jobseekerregisterrequestdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5BB43B16-D657-4C2C-B575-CFA22CFFCB55}|Domain\\Domain.csproj|d:\\sani course\\apiproject\\final-test-updated\\api_final_project\\domain\\services\\jobseeker\\dto\u0027s\\jobseekerloginrequestdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{5BB43B16-D657-4C2C-B575-CFA22CFFCB55}|Domain\\Domain.csproj|solutionrelative:domain\\services\\jobseeker\\dto\u0027s\\jobseekerloginrequestdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5BB43B16-D657-4C2C-B575-CFA22CFFCB55}|Domain\\Domain.csproj|d:\\sani course\\apiproject\\final-test-updated\\api_final_project\\domain\\services\\jobseeker\\dto\u0027s\\profiledto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{5BB43B16-D657-4C2C-B575-CFA22CFFCB55}|Domain\\Domain.csproj|solutionrelative:domain\\services\\jobseeker\\dto\u0027s\\profiledto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5BB43B16-D657-4C2C-B575-CFA22CFFCB55}|Domain\\Domain.csproj|d:\\sani course\\apiproject\\final-test-updated\\api_final_project\\domain\\services\\jobseeker\\dto\u0027s\\passwordchangerequestdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{5BB43B16-D657-4C2C-B575-CFA22CFFCB55}|Domain\\Domain.csproj|solutionrelative:domain\\services\\jobseeker\\dto\u0027s\\passwordchangerequestdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5BB43B16-D657-4C2C-B575-CFA22CFFCB55}|Domain\\Domain.csproj|d:\\sani course\\apiproject\\final-test-updated\\api_final_project\\domain\\services\\email\\emailservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{5BB43B16-D657-4C2C-B575-CFA22CFFCB55}|Domain\\Domain.csproj|solutionrelative:domain\\services\\email\\emailservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5BB43B16-D657-4C2C-B575-CFA22CFFCB55}|Domain\\Domain.csproj|d:\\sani course\\apiproject\\final-test-updated\\api_final_project\\domain\\services\\systemuser\\interfaces\\isystemuserservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{5BB43B16-D657-4C2C-B575-CFA22CFFCB55}|Domain\\Domain.csproj|solutionrelative:domain\\services\\systemuser\\interfaces\\isystemuserservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5BB43B16-D657-4C2C-B575-CFA22CFFCB55}|Domain\\Domain.csproj|d:\\sani course\\apiproject\\final-test-updated\\api_final_project\\domain\\services\\systemuser\\interfaces\\isystemuserrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{5BB43B16-D657-4C2C-B575-CFA22CFFCB55}|Domain\\Domain.csproj|solutionrelative:domain\\services\\systemuser\\interfaces\\isystemuserrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5BB43B16-D657-4C2C-B575-CFA22CFFCB55}|Domain\\Domain.csproj|d:\\sani course\\apiproject\\final-test-updated\\api_final_project\\domain\\services\\systemuser\\systemuserservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{5BB43B16-D657-4C2C-B575-CFA22CFFCB55}|Domain\\Domain.csproj|solutionrelative:domain\\services\\systemuser\\systemuserservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5BB43B16-D657-4C2C-B575-CFA22CFFCB55}|Domain\\Domain.csproj|d:\\sani course\\apiproject\\final-test-updated\\api_final_project\\domain\\enums\\jobinterviewstatus.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{5BB43B16-D657-4C2C-B575-CFA22CFFCB55}|Domain\\Domain.csproj|solutionrelative:domain\\enums\\jobinterviewstatus.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5BB43B16-D657-4C2C-B575-CFA22CFFCB55}|Domain\\Domain.csproj|d:\\sani course\\apiproject\\final-test-updated\\api_final_project\\domain\\services\\systemuser\\systemuserrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{5BB43B16-D657-4C2C-B575-CFA22CFFCB55}|Domain\\Domain.csproj|solutionrelative:domain\\services\\systemuser\\systemuserrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8A0A09CC-7827-4CF4-89DA-445F2C227524}|API_FINAL_PROJECT\\API_FINAL_PROJECT.csproj|d:\\sani course\\apiproject\\final-test-updated\\api_final_project\\api_final_project\\api\\jobseeker\\requestobjects\\createprofilerequest.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{8A0A09CC-7827-4CF4-89DA-445F2C227524}|API_FINAL_PROJECT\\API_FINAL_PROJECT.csproj|solutionrelative:api_final_project\\api\\jobseeker\\requestobjects\\createprofilerequest.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8A0A09CC-7827-4CF4-89DA-445F2C227524}|API_FINAL_PROJECT\\API_FINAL_PROJECT.csproj|d:\\sani course\\apiproject\\final-test-updated\\api_final_project\\api_final_project\\api\\jobseeker\\requestobjects\\jobseekersignuprequest.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{8A0A09CC-7827-4CF4-89DA-445F2C227524}|API_FINAL_PROJECT\\API_FINAL_PROJECT.csproj|solutionrelative:api_final_project\\api\\jobseeker\\requestobjects\\jobseekersignuprequest.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8A0A09CC-7827-4CF4-89DA-445F2C227524}|API_FINAL_PROJECT\\API_FINAL_PROJECT.csproj|d:\\sani course\\apiproject\\final-test-updated\\api_final_project\\api_final_project\\api\\jobprovider\\requestobjects\\providersignuprequest.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{8A0A09CC-7827-4CF4-89DA-445F2C227524}|API_FINAL_PROJECT\\API_FINAL_PROJECT.csproj|solutionrelative:api_final_project\\api\\jobprovider\\requestobjects\\providersignuprequest.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8A0A09CC-7827-4CF4-89DA-445F2C227524}|API_FINAL_PROJECT\\API_FINAL_PROJECT.csproj|d:\\sani course\\apiproject\\final-test-updated\\api_final_project\\api_final_project\\api_final_project.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
+      "RelativeMoniker": "D:0:0:{8A0A09CC-7827-4CF4-89DA-445F2C227524}|API_FINAL_PROJECT\\API_FINAL_PROJECT.csproj|solutionrelative:api_final_project\\api_final_project.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8A0A09CC-7827-4CF4-89DA-445F2C227524}|API_FINAL_PROJECT\\API_FINAL_PROJECT.csproj|d:\\sani course\\apiproject\\final-test-updated\\api_final_project\\api_final_project\\api\\jobseeker\\jobseekercontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{8A0A09CC-7827-4CF4-89DA-445F2C227524}|API_FINAL_PROJECT\\API_FINAL_PROJECT.csproj|solutionrelative:api_final_project\\api\\jobseeker\\jobseekercontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5BB43B16-D657-4C2C-B575-CFA22CFFCB55}|Domain\\Domain.csproj|d:\\sani course\\apiproject\\final-test-updated\\api_final_project\\domain\\migrations\\20250727180426_add5.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{5BB43B16-D657-4C2C-B575-CFA22CFFCB55}|Domain\\Domain.csproj|solutionrelative:domain\\migrations\\20250727180426_add5.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5BB43B16-D657-4C2C-B575-CFA22CFFCB55}|Domain\\Domain.csproj|d:\\sani course\\apiproject\\final-test-updated\\api_final_project\\domain\\migrations\\20250727175253_add4.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{5BB43B16-D657-4C2C-B575-CFA22CFFCB55}|Domain\\Domain.csproj|solutionrelative:domain\\migrations\\20250727175253_add4.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5BB43B16-D657-4C2C-B575-CFA22CFFCB55}|Domain\\Domain.csproj|d:\\sani course\\apiproject\\final-test-updated\\api_final_project\\domain\\migrations\\20250727173923_add3.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{5BB43B16-D657-4C2C-B575-CFA22CFFCB55}|Domain\\Domain.csproj|solutionrelative:domain\\migrations\\20250727173923_add3.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5BB43B16-D657-4C2C-B575-CFA22CFFCB55}|Domain\\Domain.csproj|d:\\sani course\\apiproject\\final-test-updated\\api_final_project\\domain\\migrations\\20250728082654_application.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{5BB43B16-D657-4C2C-B575-CFA22CFFCB55}|Domain\\Domain.csproj|solutionrelative:domain\\migrations\\20250728082654_application.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5BB43B16-D657-4C2C-B575-CFA22CFFCB55}|Domain\\Domain.csproj|d:\\sani course\\apiproject\\final-test-updated\\api_final_project\\domain\\migrations\\20250728084118_applications.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{5BB43B16-D657-4C2C-B575-CFA22CFFCB55}|Domain\\Domain.csproj|solutionrelative:domain\\migrations\\20250728084118_applications.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 3,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "dbo.JobProviderCompanies.sql",
+              "DocumentMoniker": "ViewDataWindow_MSSQL__/LAPTOP_J6GQDIKV/Finalone/True/SqlTable/dbo.JobProviderCompanies.sql",
+              "ToolTip": "ViewDataWindow_MSSQL__/LAPTOP_J6GQDIKV/Finalone/True/SqlTable/dbo.JobProviderCompanies.sql",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000826|",
+              "WhenOpened": "2025-07-28T08:21:16.368Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "JobProviderRepository.cs",
+              "DocumentMoniker": "D:\\sani course\\apiproject\\Final-Test-Updated\\API_FINAL_PROJECT\\Domain\\Services\\JobProvider\\JobProviderRepository.cs",
+              "RelativeDocumentMoniker": "Domain\\Services\\JobProvider\\JobProviderRepository.cs",
+              "ToolTip": "D:\\sani course\\apiproject\\Final-Test-Updated\\API_FINAL_PROJECT\\Domain\\Services\\JobProvider\\JobProviderRepository.cs",
+              "RelativeToolTip": "Domain\\Services\\JobProvider\\JobProviderRepository.cs",
+              "ViewState": "AgIAAM4AAAAAAAAAAAAAANMAAAAKAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-07-26T07:42:44.072Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 67,
+              "Title": "20250728082654_application.cs",
+              "DocumentMoniker": "D:\\sani course\\apiproject\\Final-Test-Updated\\API_FINAL_PROJECT\\Domain\\Migrations\\20250728082654_application.cs",
+              "RelativeDocumentMoniker": "Domain\\Migrations\\20250728082654_application.cs",
+              "ToolTip": "D:\\sani course\\apiproject\\Final-Test-Updated\\API_FINAL_PROJECT\\Domain\\Migrations\\20250728082654_application.cs",
+              "RelativeToolTip": "Domain\\Migrations\\20250728082654_application.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-07-28T08:26:55.134Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "dbo.JobCategory.sql",
+              "DocumentMoniker": "ViewDataWindow_MSSQL__/LAPTOP_J6GQDIKV/Finalone/True/SqlTable/dbo.JobCategory.sql",
+              "ToolTip": "ViewDataWindow_MSSQL__/LAPTOP_J6GQDIKV/Finalone/True/SqlTable/dbo.JobCategory.sql",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000826|",
+              "WhenOpened": "2025-07-28T08:21:05.962Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "dbo.JobApplication.sql",
+              "DocumentMoniker": "ViewDataWindow_MSSQL__/LAPTOP_J6GQDIKV/Finalone/True/SqlTable/dbo.JobApplication.sql",
+              "ToolTip": "ViewDataWindow_MSSQL__/LAPTOP_J6GQDIKV/Finalone/True/SqlTable/dbo.JobApplication.sql",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000826|",
+              "WhenOpened": "2025-07-28T08:26:14.331Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 68,
+              "Title": "20250728084118_applications.cs",
+              "DocumentMoniker": "D:\\sani course\\apiproject\\Final-Test-Updated\\API_FINAL_PROJECT\\Domain\\Migrations\\20250728084118_applications.cs",
+              "RelativeDocumentMoniker": "Domain\\Migrations\\20250728084118_applications.cs",
+              "ToolTip": "D:\\sani course\\apiproject\\Final-Test-Updated\\API_FINAL_PROJECT\\Domain\\Migrations\\20250728084118_applications.cs",
+              "RelativeToolTip": "Domain\\Migrations\\20250728084118_applications.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-07-28T08:41:18.357Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 65,
+              "Title": "20250727175253_add4.cs",
+              "DocumentMoniker": "D:\\sani course\\apiproject\\Final-Test-Updated\\API_FINAL_PROJECT\\Domain\\Migrations\\20250727175253_add4.cs",
+              "RelativeDocumentMoniker": "Domain\\Migrations\\20250727175253_add4.cs",
+              "ToolTip": "D:\\sani course\\apiproject\\Final-Test-Updated\\API_FINAL_PROJECT\\Domain\\Migrations\\20250727175253_add4.cs",
+              "RelativeToolTip": "Domain\\Migrations\\20250727175253_add4.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-07-27T17:52:53.35Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "JobPostRepository.cs",
+              "DocumentMoniker": "D:\\sani course\\apiproject\\Final-Test-Updated\\API_FINAL_PROJECT\\Domain\\Services\\Job\\JobPostRepository.cs",
+              "RelativeDocumentMoniker": "Domain\\Services\\Job\\JobPostRepository.cs",
+              "ToolTip": "D:\\sani course\\apiproject\\Final-Test-Updated\\API_FINAL_PROJECT\\Domain\\Services\\Job\\JobPostRepository.cs",
+              "RelativeToolTip": "Domain\\Services\\Job\\JobPostRepository.cs",
+              "ViewState": "AgIAABcAAAAAAAAAAAAAAHIAAAApAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-07-26T07:42:28.967Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 64,
+              "Title": "20250727180426_add5.cs",
+              "DocumentMoniker": "D:\\sani course\\apiproject\\Final-Test-Updated\\API_FINAL_PROJECT\\Domain\\Migrations\\20250727180426_add5.cs",
+              "RelativeDocumentMoniker": "Domain\\Migrations\\20250727180426_add5.cs",
+              "ToolTip": "D:\\sani course\\apiproject\\Final-Test-Updated\\API_FINAL_PROJECT\\Domain\\Migrations\\20250727180426_add5.cs",
+              "RelativeToolTip": "Domain\\Migrations\\20250727180426_add5.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-07-27T18:04:26.461Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "appsettings.json",
+              "DocumentMoniker": "D:\\sani course\\apiproject\\Final-Test-Updated\\API_FINAL_PROJECT\\API_FINAL_PROJECT\\appsettings.json",
+              "RelativeDocumentMoniker": "API_FINAL_PROJECT\\appsettings.json",
+              "ToolTip": "D:\\sani course\\apiproject\\Final-Test-Updated\\API_FINAL_PROJECT\\API_FINAL_PROJECT\\appsettings.json",
+              "RelativeToolTip": "API_FINAL_PROJECT\\appsettings.json",
+              "ViewState": "AgIAAAkAAAAAAAAAAAAAAAoAAAB7AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2025-07-09T11:58:56.746Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "JobPostService.cs",
+              "DocumentMoniker": "D:\\sani course\\apiproject\\Final-Test-Updated\\API_FINAL_PROJECT\\Domain\\Services\\Job\\JobPostService.cs",
+              "RelativeDocumentMoniker": "Domain\\Services\\Job\\JobPostService.cs",
+              "ToolTip": "D:\\sani course\\apiproject\\Final-Test-Updated\\API_FINAL_PROJECT\\Domain\\Services\\Job\\JobPostService.cs",
+              "RelativeToolTip": "Domain\\Services\\Job\\JobPostService.cs",
+              "ViewState": "AgIAAA4AAAAAAAAAAAAAACkAAAAQAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-07-28T07:12:08.683Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "20250727173200_add1.cs",
+              "DocumentMoniker": "D:\\sani course\\apiproject\\Final-Test-Updated\\API_FINAL_PROJECT\\Domain\\Migrations\\20250727173200_add1.cs",
+              "RelativeDocumentMoniker": "Domain\\Migrations\\20250727173200_add1.cs",
+              "ToolTip": "D:\\sani course\\apiproject\\Final-Test-Updated\\API_FINAL_PROJECT\\Domain\\Migrations\\20250727173200_add1.cs",
+              "RelativeToolTip": "Domain\\Migrations\\20250727173200_add1.cs",
+              "ViewState": "AgIAAGkCAAAAAAAAAAAkwIICAAA8AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-07-27T17:32:00.99Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "20250727173039_add.cs",
+              "DocumentMoniker": "D:\\sani course\\adhiltest\\Final-Test-Updated\\Final-Test-Updated\\API_FINAL_PROJECT\\Domain\\Migrations\\20250727173039_add.cs",
+              "RelativeDocumentMoniker": "..\\..\\..\\adhiltest\\Final-Test-Updated\\Final-Test-Updated\\API_FINAL_PROJECT\\Domain\\Migrations\\20250727173039_add.cs",
+              "ToolTip": "D:\\sani course\\adhiltest\\Final-Test-Updated\\Final-Test-Updated\\API_FINAL_PROJECT\\Domain\\Migrations\\20250727173039_add.cs",
+              "RelativeToolTip": "..\\..\\..\\adhiltest\\Final-Test-Updated\\Final-Test-Updated\\API_FINAL_PROJECT\\Domain\\Migrations\\20250727173039_add.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-07-27T17:30:39.818Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "20250727172353_sanila.cs",
+              "DocumentMoniker": "D:\\sani course\\adhiltest\\Final-Test-Updated\\Final-Test-Updated\\API_FINAL_PROJECT\\Domain\\Migrations\\20250727172353_sanila.cs",
+              "RelativeDocumentMoniker": "..\\..\\..\\adhiltest\\Final-Test-Updated\\Final-Test-Updated\\API_FINAL_PROJECT\\Domain\\Migrations\\20250727172353_sanila.cs",
+              "ToolTip": "D:\\sani course\\adhiltest\\Final-Test-Updated\\Final-Test-Updated\\API_FINAL_PROJECT\\Domain\\Migrations\\20250727172353_sanila.cs",
+              "RelativeToolTip": "..\\..\\..\\adhiltest\\Final-Test-Updated\\Final-Test-Updated\\API_FINAL_PROJECT\\Domain\\Migrations\\20250727172353_sanila.cs",
+              "ViewState": "AgIAAB4BAAAAAAAAAAAkwDcBAAAVAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-07-27T17:23:53.903Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "JobProviderController.cs",
+              "DocumentMoniker": "D:\\sani course\\apiproject\\Final-Test-Updated\\API_FINAL_PROJECT\\API_FINAL_PROJECT\\API\\JobProvider\\JobProviderController.cs",
+              "RelativeDocumentMoniker": "API_FINAL_PROJECT\\API\\JobProvider\\JobProviderController.cs",
+              "ToolTip": "D:\\sani course\\apiproject\\Final-Test-Updated\\API_FINAL_PROJECT\\API_FINAL_PROJECT\\API\\JobProvider\\JobProviderController.cs",
+              "RelativeToolTip": "API_FINAL_PROJECT\\API\\JobProvider\\JobProviderController.cs",
+              "ViewState": "AgIAAEMAAAAAAAAAAAAnwE8AAAAIAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-07-26T07:27:29.558Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 66,
+              "Title": "20250727173923_add3.cs",
+              "DocumentMoniker": "D:\\sani course\\apiproject\\Final-Test-Updated\\API_FINAL_PROJECT\\Domain\\Migrations\\20250727173923_add3.cs",
+              "RelativeDocumentMoniker": "Domain\\Migrations\\20250727173923_add3.cs",
+              "ToolTip": "D:\\sani course\\apiproject\\Final-Test-Updated\\API_FINAL_PROJECT\\Domain\\Migrations\\20250727173923_add3.cs",
+              "RelativeToolTip": "Domain\\Migrations\\20250727173923_add3.cs",
+              "ViewState": "AgIAACEAAAAAAAAAAAAYwAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-07-27T17:39:23.741Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
+              "Title": "20250727172211_RecreateAppliedJob.cs",
+              "DocumentMoniker": "D:\\sani course\\adhiltest\\Final-Test-Updated\\Final-Test-Updated\\API_FINAL_PROJECT\\Domain\\Migrations\\20250727172211_RecreateAppliedJob.cs",
+              "RelativeDocumentMoniker": "..\\..\\..\\adhiltest\\Final-Test-Updated\\Final-Test-Updated\\API_FINAL_PROJECT\\Domain\\Migrations\\20250727172211_RecreateAppliedJob.cs",
+              "ToolTip": "D:\\sani course\\adhiltest\\Final-Test-Updated\\Final-Test-Updated\\API_FINAL_PROJECT\\Domain\\Migrations\\20250727172211_RecreateAppliedJob.cs",
+              "RelativeToolTip": "..\\..\\..\\adhiltest\\Final-Test-Updated\\Final-Test-Updated\\API_FINAL_PROJECT\\Domain\\Migrations\\20250727172211_RecreateAppliedJob.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-07-27T17:22:11.328Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "AppDbContext.cs",
+              "DocumentMoniker": "D:\\sani course\\apiproject\\Final-Test-Updated\\API_FINAL_PROJECT\\Domain\\Models\\AppDbContext.cs",
+              "RelativeDocumentMoniker": "Domain\\Models\\AppDbContext.cs",
+              "ToolTip": "D:\\sani course\\apiproject\\Final-Test-Updated\\API_FINAL_PROJECT\\Domain\\Models\\AppDbContext.cs",
+              "RelativeToolTip": "Domain\\Models\\AppDbContext.cs",
+              "ViewState": "AgIAACIAAAAAAAAAAAArwDEAAAAGAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-07-08T09:28:29.695Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 13,
+              "Title": "AppliedJob.cs",
+              "DocumentMoniker": "D:\\sani course\\apiproject\\Final-Test-Updated\\API_FINAL_PROJECT\\Domain\\Models\\AppliedJob.cs",
+              "RelativeDocumentMoniker": "Domain\\Models\\AppliedJob.cs",
+              "ToolTip": "D:\\sani course\\apiproject\\Final-Test-Updated\\API_FINAL_PROJECT\\Domain\\Models\\AppliedJob.cs",
+              "RelativeToolTip": "Domain\\Models\\AppliedJob.cs",
+              "ViewState": "AgIAAAMAAAAAAAAAAAAAABkAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-07-27T17:21:33.439Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 15,
+              "Title": "JobSeekerSkill.cs",
+              "DocumentMoniker": "D:\\sani course\\apiproject\\Final-Test-Updated\\API_FINAL_PROJECT\\Domain\\Models\\JobSeekerSkill.cs",
+              "RelativeDocumentMoniker": "Domain\\Models\\JobSeekerSkill.cs",
+              "ToolTip": "D:\\sani course\\apiproject\\Final-Test-Updated\\API_FINAL_PROJECT\\Domain\\Models\\JobSeekerSkill.cs",
+              "RelativeToolTip": "Domain\\Models\\JobSeekerSkill.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAQAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-07-11T06:23:33.903Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 14,
+              "Title": "JobSeekerSkillDto.cs",
+              "DocumentMoniker": "D:\\sani course\\apiproject\\Final-Test-Updated\\API_FINAL_PROJECT\\Domain\\Services\\JobSeeker\\DTO\u0027s\\JobSeekerSkillDto.cs",
+              "RelativeDocumentMoniker": "Domain\\Services\\JobSeeker\\DTO\u0027s\\JobSeekerSkillDto.cs",
+              "ToolTip": "D:\\sani course\\apiproject\\Final-Test-Updated\\API_FINAL_PROJECT\\Domain\\Services\\JobSeeker\\DTO\u0027s\\JobSeekerSkillDto.cs",
+              "RelativeToolTip": "Domain\\Services\\JobSeeker\\DTO\u0027s\\JobSeekerSkillDto.cs",
+              "ViewState": "AgIAAAkAAAAAAAAAAAAAABAAAAA3AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-07-17T07:09:06.035Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 17,
+              "Title": "JobSeekerRepository.cs",
+              "DocumentMoniker": "D:\\sani course\\apiproject\\Final-Test-Updated\\API_FINAL_PROJECT\\Domain\\Services\\JobSeeker\\JobSeekerRepository.cs",
+              "RelativeDocumentMoniker": "Domain\\Services\\JobSeeker\\JobSeekerRepository.cs",
+              "ToolTip": "D:\\sani course\\apiproject\\Final-Test-Updated\\API_FINAL_PROJECT\\Domain\\Services\\JobSeeker\\JobSeekerRepository.cs",
+              "RelativeToolTip": "Domain\\Services\\JobSeeker\\JobSeekerRepository.cs",
+              "ViewState": "AgIAABIAAAAAAAAAAAAxwBkAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-07-09T10:20:46.463Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 18,
+              "Title": "JobCategoryService.cs",
+              "DocumentMoniker": "D:\\sani course\\apiproject\\Final-Test-Updated\\API_FINAL_PROJECT\\Domain\\Services\\Admin\\JobCategoryService.cs",
+              "RelativeDocumentMoniker": "Domain\\Services\\Admin\\JobCategoryService.cs",
+              "ToolTip": "D:\\sani course\\apiproject\\Final-Test-Updated\\API_FINAL_PROJECT\\Domain\\Services\\Admin\\JobCategoryService.cs",
+              "RelativeToolTip": "Domain\\Services\\Admin\\JobCategoryService.cs",
+              "ViewState": "AgIAABAAAAAAAAAAAAA3wCIAAAAJAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-07-27T13:08:05.296Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 16,
+              "Title": "AutoMapperProfile.cs",
+              "DocumentMoniker": "D:\\sani course\\apiproject\\Final-Test-Updated\\API_FINAL_PROJECT\\API_FINAL_PROJECT\\Extensions\\AutoMapperProfile.cs",
+              "RelativeDocumentMoniker": "API_FINAL_PROJECT\\Extensions\\AutoMapperProfile.cs",
+              "ToolTip": "D:\\sani course\\apiproject\\Final-Test-Updated\\API_FINAL_PROJECT\\API_FINAL_PROJECT\\Extensions\\AutoMapperProfile.cs",
+              "RelativeToolTip": "API_FINAL_PROJECT\\Extensions\\AutoMapperProfile.cs",
+              "ViewState": "AgIAAB0AAAAAAAAAAAAnwCQAAAAkAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-07-08T09:47:11.316Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 20,
+              "Title": "AdminRepository.cs",
+              "DocumentMoniker": "D:\\sani course\\apiproject\\Final-Test-Updated\\API_FINAL_PROJECT\\Domain\\Services\\Admin\\AdminRepository.cs",
+              "RelativeDocumentMoniker": "Domain\\Services\\Admin\\AdminRepository.cs",
+              "ToolTip": "D:\\sani course\\apiproject\\Final-Test-Updated\\API_FINAL_PROJECT\\Domain\\Services\\Admin\\AdminRepository.cs",
+              "RelativeToolTip": "Domain\\Services\\Admin\\AdminRepository.cs",
+              "ViewState": "AgIAAEQAAAAAAAAAAAAxwEoAAAAIAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-07-27T03:21:27.669Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 21,
+              "Title": "Resume.cs",
+              "DocumentMoniker": "D:\\sani course\\apiproject\\Final-Test-Updated\\API_FINAL_PROJECT\\Domain\\Models\\Resume.cs",
+              "RelativeDocumentMoniker": "Domain\\Models\\Resume.cs",
+              "ToolTip": "D:\\sani course\\apiproject\\Final-Test-Updated\\API_FINAL_PROJECT\\Domain\\Models\\Resume.cs",
+              "RelativeToolTip": "Domain\\Models\\Resume.cs",
+              "ViewState": "AgIAAAoAAAAAAAAAAAAmwBAAAAATAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-07-17T05:46:37.805Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 19,
+              "Title": "JobProviderService.cs",
+              "DocumentMoniker": "D:\\sani course\\apiproject\\Final-Test-Updated\\API_FINAL_PROJECT\\Domain\\Services\\JobProvider\\JobProviderService.cs",
+              "RelativeDocumentMoniker": "Domain\\Services\\JobProvider\\JobProviderService.cs",
+              "ToolTip": "D:\\sani course\\apiproject\\Final-Test-Updated\\API_FINAL_PROJECT\\Domain\\Services\\JobProvider\\JobProviderService.cs",
+              "RelativeToolTip": "Domain\\Services\\JobProvider\\JobProviderService.cs",
+              "ViewState": "AgIAALYAAAAAAAAAAAAiwL8AAABXAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-07-26T07:42:52.828Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 24,
+              "Title": "JobSeekerService.cs",
+              "DocumentMoniker": "D:\\sani course\\apiproject\\Final-Test-Updated\\API_FINAL_PROJECT\\Domain\\Services\\JobSeeker\\JobSeekerService.cs",
+              "RelativeDocumentMoniker": "Domain\\Services\\JobSeeker\\JobSeekerService.cs",
+              "ToolTip": "D:\\sani course\\apiproject\\Final-Test-Updated\\API_FINAL_PROJECT\\Domain\\Services\\JobSeeker\\JobSeekerService.cs",
+              "RelativeToolTip": "Domain\\Services\\JobSeeker\\JobSeekerService.cs",
+              "ViewState": "AgIAAEMAAAAAAAAAAAAcwD8AAAANAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-07-09T10:20:32.198Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 23,
+              "Title": "JobApplication.cs",
+              "DocumentMoniker": "D:\\sani course\\apiproject\\Final-Test-Updated\\API_FINAL_PROJECT\\Domain\\Models\\JobApplication.cs",
+              "RelativeDocumentMoniker": "Domain\\Models\\JobApplication.cs",
+              "ToolTip": "D:\\sani course\\apiproject\\Final-Test-Updated\\API_FINAL_PROJECT\\Domain\\Models\\JobApplication.cs",
+              "RelativeToolTip": "Domain\\Models\\JobApplication.cs",
+              "ViewState": "AgIAABIAAAAAAAAAAAA4wBIAAAArAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-07-21T12:57:13.673Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 22,
+              "Title": "AdminService.cs",
+              "DocumentMoniker": "D:\\sani course\\apiproject\\Final-Test-Updated\\API_FINAL_PROJECT\\Domain\\Services\\Admin\\AdminService.cs",
+              "RelativeDocumentMoniker": "Domain\\Services\\Admin\\AdminService.cs",
+              "ToolTip": "D:\\sani course\\apiproject\\Final-Test-Updated\\API_FINAL_PROJECT\\Domain\\Services\\Admin\\AdminService.cs",
+              "RelativeToolTip": "Domain\\Services\\Admin\\AdminService.cs",
+              "ViewState": "AgIAAHwAAAAAAAAAAAAYwHsAAABKAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-07-27T03:21:53.578Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 25,
+              "Title": "IJobSeekerService.cs",
+              "DocumentMoniker": "D:\\sani course\\apiproject\\Final-Test-Updated\\API_FINAL_PROJECT\\Domain\\Services\\JobSeeker\\Interfaces\\IJobSeekerService.cs",
+              "RelativeDocumentMoniker": "Domain\\Services\\JobSeeker\\Interfaces\\IJobSeekerService.cs",
+              "ToolTip": "D:\\sani course\\apiproject\\Final-Test-Updated\\API_FINAL_PROJECT\\Domain\\Services\\JobSeeker\\Interfaces\\IJobSeekerService.cs",
+              "RelativeToolTip": "Domain\\Services\\JobSeeker\\Interfaces\\IJobSeekerService.cs",
+              "ViewState": "AgIAABYAAAAAAAAAAAA3wB8AAAAwAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-07-09T12:56:11.076Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 26,
+              "Title": "ApplicationExtensions.cs",
+              "DocumentMoniker": "D:\\sani course\\apiproject\\Final-Test-Updated\\API_FINAL_PROJECT\\API_FINAL_PROJECT\\Extensions\\ApplicationExtensions.cs",
+              "RelativeDocumentMoniker": "API_FINAL_PROJECT\\Extensions\\ApplicationExtensions.cs",
+              "ToolTip": "D:\\sani course\\apiproject\\Final-Test-Updated\\API_FINAL_PROJECT\\API_FINAL_PROJECT\\Extensions\\ApplicationExtensions.cs",
+              "RelativeToolTip": "API_FINAL_PROJECT\\Extensions\\ApplicationExtensions.cs",
+              "ViewState": "AgIAACYAAAAAAAAAAAAAwCkAAACBAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-07-08T12:55:16.552Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 27,
+              "Title": "AuthUserDTO.cs",
+              "DocumentMoniker": "D:\\sani course\\apiproject\\Final-Test-Updated\\API_FINAL_PROJECT\\Domain\\Services\\AuthUser\\DTO\u0027s\\AuthUserDTO.cs",
+              "RelativeDocumentMoniker": "Domain\\Services\\AuthUser\\DTO\u0027s\\AuthUserDTO.cs",
+              "ToolTip": "D:\\sani course\\apiproject\\Final-Test-Updated\\API_FINAL_PROJECT\\Domain\\Services\\AuthUser\\DTO\u0027s\\AuthUserDTO.cs",
+              "RelativeToolTip": "Domain\\Services\\AuthUser\\DTO\u0027s\\AuthUserDTO.cs",
+              "ViewState": "AgIAAAQAAAAAAAAAAAAnwAsAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-07-27T03:07:03.855Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 28,
+              "Title": "AdminController.cs",
+              "DocumentMoniker": "D:\\sani course\\apiproject\\Final-Test-Updated\\API_FINAL_PROJECT\\API_FINAL_PROJECT\\API\\Admin\\AdminController.cs",
+              "RelativeDocumentMoniker": "API_FINAL_PROJECT\\API\\Admin\\AdminController.cs",
+              "ToolTip": "D:\\sani course\\apiproject\\Final-Test-Updated\\API_FINAL_PROJECT\\API_FINAL_PROJECT\\API\\Admin\\AdminController.cs",
+              "RelativeToolTip": "API_FINAL_PROJECT\\API\\Admin\\AdminController.cs",
+              "ViewState": "AgIAAAcAAAAAAAAAAAAAwBAAAAAZAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-07-27T03:06:59.581Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 29,
+              "Title": "AuthUserRepository.cs",
+              "DocumentMoniker": "D:\\sani course\\apiproject\\Final-Test-Updated\\API_FINAL_PROJECT\\Domain\\Services\\AuthUser\\AuthUserRepository.cs",
+              "RelativeDocumentMoniker": "Domain\\Services\\AuthUser\\AuthUserRepository.cs",
+              "ToolTip": "D:\\sani course\\apiproject\\Final-Test-Updated\\API_FINAL_PROJECT\\Domain\\Services\\AuthUser\\AuthUserRepository.cs",
+              "RelativeToolTip": "Domain\\Services\\AuthUser\\AuthUserRepository.cs",
+              "ViewState": "AgIAACMAAAAAAAAAAAA7wHkAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-07-08T13:24:16.973Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 30,
+              "Title": "IAuthUserRepository.cs",
+              "DocumentMoniker": "D:\\sani course\\apiproject\\Final-Test-Updated\\API_FINAL_PROJECT\\Domain\\Services\\AuthUser\\Interfaces\\IAuthUserRepository.cs",
+              "RelativeDocumentMoniker": "Domain\\Services\\AuthUser\\Interfaces\\IAuthUserRepository.cs",
+              "ToolTip": "D:\\sani course\\apiproject\\Final-Test-Updated\\API_FINAL_PROJECT\\Domain\\Services\\AuthUser\\Interfaces\\IAuthUserRepository.cs",
+              "RelativeToolTip": "Domain\\Services\\AuthUser\\Interfaces\\IAuthUserRepository.cs",
+              "ViewState": "AgIAAAkAAAAAAAAAAAAAAAsAAAAzAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-07-08T09:31:48.665Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 32,
+              "Title": "Program.cs",
+              "DocumentMoniker": "D:\\sani course\\apiproject\\Final-Test-Updated\\API_FINAL_PROJECT\\API_FINAL_PROJECT\\Program.cs",
+              "RelativeDocumentMoniker": "API_FINAL_PROJECT\\Program.cs",
+              "ToolTip": "D:\\sani course\\apiproject\\Final-Test-Updated\\API_FINAL_PROJECT\\API_FINAL_PROJECT\\Program.cs",
+              "RelativeToolTip": "API_FINAL_PROJECT\\Program.cs",
+              "ViewState": "AgIAABoAAAAAAAAAAAAAABsAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-07-08T13:17:06.373Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 31,
+              "Title": "JobCategory.cs",
+              "DocumentMoniker": "D:\\sani course\\apiproject\\Final-Test-Updated\\API_FINAL_PROJECT\\Domain\\Models\\JobCategory.cs",
+              "RelativeDocumentMoniker": "Domain\\Models\\JobCategory.cs",
+              "ToolTip": "D:\\sani course\\apiproject\\Final-Test-Updated\\API_FINAL_PROJECT\\Domain\\Models\\JobCategory.cs",
+              "RelativeToolTip": "Domain\\Models\\JobCategory.cs",
+              "ViewState": "AgIAAAYAAAAAAAAAAAAAAAsAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-07-17T05:47:24.21Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 34,
+              "Title": "JobSeekerProfile.cs",
+              "DocumentMoniker": "D:\\sani course\\apiproject\\Final-Test-Updated\\API_FINAL_PROJECT\\Domain\\Models\\JobSeekerProfile.cs",
+              "RelativeDocumentMoniker": "Domain\\Models\\JobSeekerProfile.cs",
+              "ToolTip": "D:\\sani course\\apiproject\\Final-Test-Updated\\API_FINAL_PROJECT\\Domain\\Models\\JobSeekerProfile.cs",
+              "RelativeToolTip": "Domain\\Models\\JobSeekerProfile.cs",
+              "ViewState": "AgIAAA0AAAAAAAAAAAAzwBMAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-07-09T11:05:26.442Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 33,
+              "Title": "Domain.csproj",
+              "DocumentMoniker": "D:\\sani course\\apiproject\\Final-Test-Updated\\API_FINAL_PROJECT\\Domain\\Domain.csproj",
+              "RelativeDocumentMoniker": "Domain\\Domain.csproj",
+              "ToolTip": "D:\\sani course\\apiproject\\Final-Test-Updated\\API_FINAL_PROJECT\\Domain\\Domain.csproj",
+              "RelativeToolTip": "Domain\\Domain.csproj",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAACYAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2025-07-22T09:29:27.478Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 62,
+              "Title": "API_FINAL_PROJECT.csproj",
+              "DocumentMoniker": "D:\\sani course\\apiproject\\Final-Test-Updated\\API_FINAL_PROJECT\\API_FINAL_PROJECT\\API_FINAL_PROJECT.csproj",
+              "RelativeDocumentMoniker": "API_FINAL_PROJECT\\API_FINAL_PROJECT.csproj",
+              "ToolTip": "D:\\sani course\\apiproject\\Final-Test-Updated\\API_FINAL_PROJECT\\API_FINAL_PROJECT\\API_FINAL_PROJECT.csproj",
+              "RelativeToolTip": "API_FINAL_PROJECT\\API_FINAL_PROJECT.csproj",
+              "ViewState": "AgIAAA0AAAAAAAAAAABDwAIAAAARAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2025-07-22T09:46:52.583Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 63,
+              "Title": "JobSeekerController.cs",
+              "DocumentMoniker": "D:\\sani course\\apiproject\\Final-Test-Updated\\API_FINAL_PROJECT\\API_FINAL_PROJECT\\API\\Jobseeker\\JobSeekerController.cs",
+              "RelativeDocumentMoniker": "API_FINAL_PROJECT\\API\\Jobseeker\\JobSeekerController.cs",
+              "ToolTip": "D:\\sani course\\apiproject\\Final-Test-Updated\\API_FINAL_PROJECT\\API_FINAL_PROJECT\\API\\Jobseeker\\JobSeekerController.cs",
+              "RelativeToolTip": "API_FINAL_PROJECT\\API\\Jobseeker\\JobSeekerController.cs",
+              "ViewState": "AgIAAIwBAAAAAAAAAAAxwGUBAABUAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-07-08T09:49:18.13Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 35,
+              "Title": "IJobSeekerRepository.cs",
+              "DocumentMoniker": "D:\\sani course\\apiproject\\Final-Test-Updated\\API_FINAL_PROJECT\\Domain\\Services\\JobSeeker\\Interfaces\\IJobSeekerRepository.cs",
+              "RelativeDocumentMoniker": "Domain\\Services\\JobSeeker\\Interfaces\\IJobSeekerRepository.cs",
+              "ToolTip": "D:\\sani course\\apiproject\\Final-Test-Updated\\API_FINAL_PROJECT\\Domain\\Services\\JobSeeker\\Interfaces\\IJobSeekerRepository.cs",
+              "RelativeToolTip": "Domain\\Services\\JobSeeker\\Interfaces\\IJobSeekerRepository.cs",
+              "ViewState": "AgIAADwAAAAAAAAAAAA9wEEAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-07-09T10:22:24Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 36,
+              "Title": "Skill.cs",
+              "DocumentMoniker": "D:\\sani course\\apiproject\\Final-Test-Updated\\API_FINAL_PROJECT\\Domain\\Models\\Skill.cs",
+              "RelativeDocumentMoniker": "Domain\\Models\\Skill.cs",
+              "ToolTip": "D:\\sani course\\apiproject\\Final-Test-Updated\\API_FINAL_PROJECT\\Domain\\Models\\Skill.cs",
+              "RelativeToolTip": "Domain\\Models\\Skill.cs",
+              "ViewState": "AgIAAA8AAAAAAAAAAAA7wBMAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-07-11T13:19:17.31Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 37,
+              "Title": "Qualification.cs",
+              "DocumentMoniker": "D:\\sani course\\apiproject\\Final-Test-Updated\\API_FINAL_PROJECT\\Domain\\Models\\Qualification.cs",
+              "RelativeDocumentMoniker": "Domain\\Models\\Qualification.cs",
+              "ToolTip": "D:\\sani course\\apiproject\\Final-Test-Updated\\API_FINAL_PROJECT\\Domain\\Models\\Qualification.cs",
+              "RelativeToolTip": "Domain\\Models\\Qualification.cs",
+              "ViewState": "AgIAAAsAAAAAAAAAAAA7wA4AAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-07-17T05:54:41.366Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 38,
+              "Title": "JobSeekerSignUpRequest.cs",
+              "DocumentMoniker": "D:\\sani course\\apiproject\\Final-Test-Updated\\API_FINAL_PROJECT\\Domain\\Models\\JobSeekerSignUpRequest.cs",
+              "RelativeDocumentMoniker": "Domain\\Models\\JobSeekerSignUpRequest.cs",
+              "ToolTip": "D:\\sani course\\apiproject\\Final-Test-Updated\\API_FINAL_PROJECT\\Domain\\Models\\JobSeekerSignUpRequest.cs",
+              "RelativeToolTip": "Domain\\Models\\JobSeekerSignUpRequest.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAABDwAwAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-07-09T11:13:55.441Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 39,
+              "Title": "Jobseeker.cs",
+              "DocumentMoniker": "D:\\sani course\\apiproject\\Final-Test-Updated\\API_FINAL_PROJECT\\Domain\\Models\\Jobseeker.cs",
+              "RelativeDocumentMoniker": "Domain\\Models\\Jobseeker.cs",
+              "ToolTip": "D:\\sani course\\apiproject\\Final-Test-Updated\\API_FINAL_PROJECT\\Domain\\Models\\Jobseeker.cs",
+              "RelativeToolTip": "Domain\\Models\\Jobseeker.cs",
+              "ViewState": "AgIAAAsAAAAAAAAAAAAQwBMAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-07-17T04:02:19.829Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 40,
+              "Title": "JobProviderSignUpRequest.cs",
+              "DocumentMoniker": "D:\\sani course\\apiproject\\Final-Test-Updated\\API_FINAL_PROJECT\\Domain\\Models\\JobProviderSignUpRequest.cs",
+              "RelativeDocumentMoniker": "Domain\\Models\\JobProviderSignUpRequest.cs",
+              "ToolTip": "D:\\sani course\\apiproject\\Final-Test-Updated\\API_FINAL_PROJECT\\Domain\\Models\\JobProviderSignUpRequest.cs",
+              "RelativeToolTip": "Domain\\Models\\JobProviderSignUpRequest.cs",
+              "ViewState": "AgIAACAAAAAAAAAAAAA1wAMAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-07-26T06:57:43.949Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 41,
+              "Title": "JobProviderCompany.cs",
+              "DocumentMoniker": "D:\\sani course\\apiproject\\Final-Test-Updated\\API_FINAL_PROJECT\\Domain\\Models\\JobProviderCompany.cs",
+              "RelativeDocumentMoniker": "Domain\\Models\\JobProviderCompany.cs",
+              "ToolTip": "D:\\sani course\\apiproject\\Final-Test-Updated\\API_FINAL_PROJECT\\Domain\\Models\\JobProviderCompany.cs",
+              "RelativeToolTip": "Domain\\Models\\JobProviderCompany.cs",
+              "ViewState": "AgIAAA4AAAAAAAAAAAA7wBUAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-07-17T05:47:50.493Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 42,
+              "Title": "JobPost.cs",
+              "DocumentMoniker": "D:\\sani course\\apiproject\\Final-Test-Updated\\API_FINAL_PROJECT\\Domain\\Models\\JobPost.cs",
+              "RelativeDocumentMoniker": "Domain\\Models\\JobPost.cs",
+              "ToolTip": "D:\\sani course\\apiproject\\Final-Test-Updated\\API_FINAL_PROJECT\\Domain\\Models\\JobPost.cs",
+              "RelativeToolTip": "Domain\\Models\\JobPost.cs",
+              "ViewState": "AgIAABwAAAAAAAAAAAAgwB0AAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-07-11T13:17:37.692Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 43,
+              "Title": "CompanyUser.cs",
+              "DocumentMoniker": "D:\\sani course\\apiproject\\Final-Test-Updated\\API_FINAL_PROJECT\\Domain\\Models\\CompanyUser.cs",
+              "RelativeDocumentMoniker": "Domain\\Models\\CompanyUser.cs",
+              "ToolTip": "D:\\sani course\\apiproject\\Final-Test-Updated\\API_FINAL_PROJECT\\Domain\\Models\\CompanyUser.cs",
+              "RelativeToolTip": "Domain\\Models\\CompanyUser.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA4AAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-07-21T13:07:44.764Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 61,
+              "Title": "ProviderSignUpRequest.cs",
+              "DocumentMoniker": "D:\\sani course\\apiproject\\Final-Test-Updated\\API_FINAL_PROJECT\\API_FINAL_PROJECT\\API\\JobProvider\\RequestObjects\\ProviderSignUpRequest.cs",
+              "RelativeDocumentMoniker": "API_FINAL_PROJECT\\API\\JobProvider\\RequestObjects\\ProviderSignUpRequest.cs",
+              "ToolTip": "D:\\sani course\\apiproject\\Final-Test-Updated\\API_FINAL_PROJECT\\API_FINAL_PROJECT\\API\\JobProvider\\RequestObjects\\ProviderSignUpRequest.cs",
+              "RelativeToolTip": "API_FINAL_PROJECT\\API\\JobProvider\\RequestObjects\\ProviderSignUpRequest.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-07-21T06:23:40.496Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 60,
+              "Title": "JobSeekerSignUpRequest.cs",
+              "DocumentMoniker": "D:\\sani course\\apiproject\\Final-Test-Updated\\API_FINAL_PROJECT\\API_FINAL_PROJECT\\API\\Jobseeker\\RequestObjects\\JobSeekerSignUpRequest.cs",
+              "RelativeDocumentMoniker": "API_FINAL_PROJECT\\API\\Jobseeker\\RequestObjects\\JobSeekerSignUpRequest.cs",
+              "ToolTip": "D:\\sani course\\apiproject\\Final-Test-Updated\\API_FINAL_PROJECT\\API_FINAL_PROJECT\\API\\Jobseeker\\RequestObjects\\JobSeekerSignUpRequest.cs",
+              "RelativeToolTip": "API_FINAL_PROJECT\\API\\Jobseeker\\RequestObjects\\JobSeekerSignUpRequest.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAsAAAApAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-07-08T09:25:19.528Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 49,
+              "Title": "JobSeekerRegisterRequestDTO.cs",
+              "DocumentMoniker": "D:\\sani course\\apiproject\\Final-Test-Updated\\API_FINAL_PROJECT\\Domain\\Services\\JobSeeker\\DTO\u0027s\\JobSeekerRegisterRequestDTO.cs",
+              "RelativeDocumentMoniker": "Domain\\Services\\JobSeeker\\DTO\u0027s\\JobSeekerRegisterRequestDTO.cs",
+              "ToolTip": "D:\\sani course\\apiproject\\Final-Test-Updated\\API_FINAL_PROJECT\\Domain\\Services\\JobSeeker\\DTO\u0027s\\JobSeekerRegisterRequestDTO.cs",
+              "RelativeToolTip": "Domain\\Services\\JobSeeker\\DTO\u0027s\\JobSeekerRegisterRequestDTO.cs",
+              "ViewState": "AgIAAA0AAAAAAAAAAAAmwBMAAAAuAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-07-08T09:30:38.621Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 59,
+              "Title": "CreateProfileRequest.cs",
+              "DocumentMoniker": "D:\\sani course\\apiproject\\Final-Test-Updated\\API_FINAL_PROJECT\\API_FINAL_PROJECT\\API\\Jobseeker\\RequestObjects\\CreateProfileRequest.cs",
+              "RelativeDocumentMoniker": "API_FINAL_PROJECT\\API\\Jobseeker\\RequestObjects\\CreateProfileRequest.cs",
+              "ToolTip": "D:\\sani course\\apiproject\\Final-Test-Updated\\API_FINAL_PROJECT\\API_FINAL_PROJECT\\API\\Jobseeker\\RequestObjects\\CreateProfileRequest.cs",
+              "RelativeToolTip": "API_FINAL_PROJECT\\API\\Jobseeker\\RequestObjects\\CreateProfileRequest.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAgAAAAyAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-07-09T11:03:36.665Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 52,
+              "Title": "PasswordChangeRequestDTO.cs",
+              "DocumentMoniker": "D:\\sani course\\apiproject\\Final-Test-Updated\\API_FINAL_PROJECT\\Domain\\Services\\JobSeeker\\DTO\u0027s\\PasswordChangeRequestDTO.cs",
+              "RelativeDocumentMoniker": "Domain\\Services\\JobSeeker\\DTO\u0027s\\PasswordChangeRequestDTO.cs",
+              "ToolTip": "D:\\sani course\\apiproject\\Final-Test-Updated\\API_FINAL_PROJECT\\Domain\\Services\\JobSeeker\\DTO\u0027s\\PasswordChangeRequestDTO.cs",
+              "RelativeToolTip": "Domain\\Services\\JobSeeker\\DTO\u0027s\\PasswordChangeRequestDTO.cs",
+              "ViewState": "AgIAAAUAAAAAAAAAAAAzwAwAAAAHAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-07-09T10:30:25.538Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 50,
+              "Title": "JobSeekerLoginRequestDTO.cs",
+              "DocumentMoniker": "D:\\sani course\\apiproject\\Final-Test-Updated\\API_FINAL_PROJECT\\Domain\\Services\\JobSeeker\\DTO\u0027s\\JobSeekerLoginRequestDTO.cs",
+              "RelativeDocumentMoniker": "Domain\\Services\\JobSeeker\\DTO\u0027s\\JobSeekerLoginRequestDTO.cs",
+              "ToolTip": "D:\\sani course\\apiproject\\Final-Test-Updated\\API_FINAL_PROJECT\\Domain\\Services\\JobSeeker\\DTO\u0027s\\JobSeekerLoginRequestDTO.cs",
+              "RelativeToolTip": "Domain\\Services\\JobSeeker\\DTO\u0027s\\JobSeekerLoginRequestDTO.cs",
+              "ViewState": "AgIAAAsAAAAAAAAAAAAQwBAAAAAqAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-07-08T13:25:33.692Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 51,
+              "Title": "ProfileDTO.cs",
+              "DocumentMoniker": "D:\\sani course\\apiproject\\Final-Test-Updated\\API_FINAL_PROJECT\\Domain\\Services\\JobSeeker\\DTO\u0027s\\ProfileDTO.cs",
+              "RelativeDocumentMoniker": "Domain\\Services\\JobSeeker\\DTO\u0027s\\ProfileDTO.cs",
+              "ToolTip": "D:\\sani course\\apiproject\\Final-Test-Updated\\API_FINAL_PROJECT\\Domain\\Services\\JobSeeker\\DTO\u0027s\\ProfileDTO.cs",
+              "RelativeToolTip": "Domain\\Services\\JobSeeker\\DTO\u0027s\\ProfileDTO.cs",
+              "ViewState": "AgIAAAkAAAAAAAAAAADwvwsAAAAyAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-07-09T11:17:51.042Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 57,
+              "Title": "JobInterviewStatus.cs",
+              "DocumentMoniker": "D:\\sani course\\apiproject\\Final-Test-Updated\\API_FINAL_PROJECT\\Domain\\Enums\\JobInterviewStatus.cs",
+              "RelativeDocumentMoniker": "Domain\\Enums\\JobInterviewStatus.cs",
+              "ToolTip": "D:\\sani course\\apiproject\\Final-Test-Updated\\API_FINAL_PROJECT\\Domain\\Enums\\JobInterviewStatus.cs",
+              "RelativeToolTip": "Domain\\Enums\\JobInterviewStatus.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA0AAAAQAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-07-17T16:45:18.832Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 44,
+              "Title": "ListJobDTO.cs",
+              "DocumentMoniker": "D:\\sani course\\apiproject\\Final-Test-Updated\\API_FINAL_PROJECT\\Domain\\Services\\JobSeeker\\DTO\u0027s\\ListJobDTO.cs",
+              "RelativeDocumentMoniker": "Domain\\Services\\JobSeeker\\DTO\u0027s\\ListJobDTO.cs",
+              "ToolTip": "D:\\sani course\\apiproject\\Final-Test-Updated\\API_FINAL_PROJECT\\Domain\\Services\\JobSeeker\\DTO\u0027s\\ListJobDTO.cs",
+              "RelativeToolTip": "Domain\\Services\\JobSeeker\\DTO\u0027s\\ListJobDTO.cs",
+              "ViewState": "AgIAAAgAAAAAAAAAAAAzwA4AAAATAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-07-26T13:10:08.686Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 53,
+              "Title": "EmailService.cs",
+              "DocumentMoniker": "D:\\sani course\\apiproject\\Final-Test-Updated\\API_FINAL_PROJECT\\Domain\\Services\\Email\\EmailService.cs",
+              "RelativeDocumentMoniker": "Domain\\Services\\Email\\EmailService.cs",
+              "ToolTip": "D:\\sani course\\apiproject\\Final-Test-Updated\\API_FINAL_PROJECT\\Domain\\Services\\Email\\EmailService.cs",
+              "RelativeToolTip": "Domain\\Services\\Email\\EmailService.cs",
+              "ViewState": "AgIAABYAAAAAAAAAAAAwwBoAAAAIAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-07-08T09:32:46.193Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 58,
+              "Title": "SystemUserRepository.cs",
+              "DocumentMoniker": "D:\\sani course\\apiproject\\Final-Test-Updated\\API_FINAL_PROJECT\\Domain\\Services\\SystemUser\\SystemUserRepository.cs",
+              "RelativeDocumentMoniker": "Domain\\Services\\SystemUser\\SystemUserRepository.cs",
+              "ToolTip": "D:\\sani course\\apiproject\\Final-Test-Updated\\API_FINAL_PROJECT\\Domain\\Services\\SystemUser\\SystemUserRepository.cs",
+              "RelativeToolTip": "Domain\\Services\\SystemUser\\SystemUserRepository.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAcAAAATAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-07-08T09:27:43.926Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 56,
+              "Title": "SystemUserService.cs",
+              "DocumentMoniker": "D:\\sani course\\apiproject\\Final-Test-Updated\\API_FINAL_PROJECT\\Domain\\Services\\SystemUser\\SystemUserService.cs",
+              "RelativeDocumentMoniker": "Domain\\Services\\SystemUser\\SystemUserService.cs",
+              "ToolTip": "D:\\sani course\\apiproject\\Final-Test-Updated\\API_FINAL_PROJECT\\Domain\\Services\\SystemUser\\SystemUserService.cs",
+              "RelativeToolTip": "Domain\\Services\\SystemUser\\SystemUserService.cs",
+              "ViewState": "AgIAACwAAAAAAAAAAAAIwDAAAAAJAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-07-08T09:31:27.048Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 54,
+              "Title": "ISystemUserService.cs",
+              "DocumentMoniker": "D:\\sani course\\apiproject\\Final-Test-Updated\\API_FINAL_PROJECT\\Domain\\Services\\SystemUser\\Interfaces\\ISystemUserService.cs",
+              "RelativeDocumentMoniker": "Domain\\Services\\SystemUser\\Interfaces\\ISystemUserService.cs",
+              "ToolTip": "D:\\sani course\\apiproject\\Final-Test-Updated\\API_FINAL_PROJECT\\Domain\\Services\\SystemUser\\Interfaces\\ISystemUserService.cs",
+              "RelativeToolTip": "Domain\\Services\\SystemUser\\Interfaces\\ISystemUserService.cs",
+              "ViewState": "AgIAAAMAAAAAAAAAAAApwAoAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-07-08T09:30:49.672Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 55,
+              "Title": "ISystemUserRepository.cs",
+              "DocumentMoniker": "D:\\sani course\\apiproject\\Final-Test-Updated\\API_FINAL_PROJECT\\Domain\\Services\\SystemUser\\Interfaces\\ISystemUserRepository.cs",
+              "RelativeDocumentMoniker": "Domain\\Services\\SystemUser\\Interfaces\\ISystemUserRepository.cs",
+              "ToolTip": "D:\\sani course\\apiproject\\Final-Test-Updated\\API_FINAL_PROJECT\\Domain\\Services\\SystemUser\\Interfaces\\ISystemUserRepository.cs",
+              "RelativeToolTip": "Domain\\Services\\SystemUser\\Interfaces\\ISystemUserRepository.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAIBswBUAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-07-08T09:31:05.433Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 47,
+              "Title": "20250717061649_Qualification.cs",
+              "DocumentMoniker": "C:\\Users\\LENOVO\\Documents\\Git\\API_FINAL_PROJECT_BATCH-05-AD02\\API_FINAL_PROJECT\\Domain\\Migrations\\20250717061649_Qualification.cs",
+              "ToolTip": "C:\\Users\\LENOVO\\Documents\\Git\\API_FINAL_PROJECT_BATCH-05-AD02\\API_FINAL_PROJECT\\Domain\\Migrations\\20250717061649_Qualification.cs",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-07-17T06:16:49.705Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 46,
+              "Title": "20250717145757_JobSeekerSkill1_ProfileID.cs",
+              "DocumentMoniker": "C:\\Users\\LENOVO\\Documents\\Git\\API_FINAL_PROJECT_BATCH-05-AD02\\API_FINAL_PROJECT\\Domain\\Migrations\\20250717145757_JobSeekerSkill1_ProfileID.cs",
+              "ToolTip": "C:\\Users\\LENOVO\\Documents\\Git\\API_FINAL_PROJECT_BATCH-05-AD02\\API_FINAL_PROJECT\\Domain\\Migrations\\20250717145757_JobSeekerSkill1_ProfileID.cs",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-07-17T14:57:57.917Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 45,
+              "Title": "20250717150009_JobSeekerSkill.cs",
+              "DocumentMoniker": "C:\\Users\\LENOVO\\Documents\\Git\\API_FINAL_PROJECT_BATCH-05-AD02\\API_FINAL_PROJECT\\Domain\\Migrations\\20250717150009_JobSeekerSkill.cs",
+              "ToolTip": "C:\\Users\\LENOVO\\Documents\\Git\\API_FINAL_PROJECT_BATCH-05-AD02\\API_FINAL_PROJECT\\Domain\\Migrations\\20250717150009_JobSeekerSkill.cs",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-07-17T15:00:09.635Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 48,
+              "Title": "20250709111234_updated.cs",
+              "DocumentMoniker": "C:\\Users\\LENOVO\\Documents\\Git\\API_FINAL_PROJECT_BATCH-05-AD02\\API_FINAL_PROJECT\\Domain\\Migrations\\20250709111234_updated.cs",
+              "ToolTip": "C:\\Users\\LENOVO\\Documents\\Git\\API_FINAL_PROJECT_BATCH-05-AD02\\API_FINAL_PROJECT\\Domain\\Migrations\\20250709111234_updated.cs",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-07-09T11:12:34.954Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
